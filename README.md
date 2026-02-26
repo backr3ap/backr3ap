@@ -21,13 +21,13 @@ At **Libava Softworks**, I lead technical strategy and drive innovation across o
 I work across the full technology stack with expertise in:
 
 **Backend & Systems**
-- C# | C++ | Laravel | Node.js
+- C# | C++ | Java | Laravel | Node.js
 
 **Frontend & Web**
 - React.js | Next.js | TypeScript | Tailwind CSS | JavaScript
 
 **Mobile Development**
-- Flutter (cross-platform excellence)
+- Flutter, React Native
 
 **What I Bring to the Table**
 - Full-stack architecture and design
@@ -44,7 +44,7 @@ I work across the full technology stack with expertise in:
 A comprehensive fitness platform featuring:
 - **Frontend:** Next.js with TypeScript and Tailwind CSS
 - **Mobile:** Flutter for iOS & Android
-- **Backend:** Modern, scalable architecture
+- **Backend:** Laravel
 - **Focus:** User experience, performance, and real-time features
 
 ---
